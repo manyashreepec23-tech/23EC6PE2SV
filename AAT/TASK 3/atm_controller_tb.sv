@@ -1,6 +1,6 @@
 //------------------------------------------------------------------------------
 // File       : atm_controller_tb.sv
-// Author     : Prajwal Bharadwaj D H
+// Author     : Manyashree P
 // Created    : 2026-01-29
 // Module     : tb
 // Project    : SystemVerilog and Verification (23EC6PE2SV)
