@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------
 // File        : dff.sv
-// Author      : Prajwal Bharadwaj D H (1BM23EC186)
+// Author      : Manyashree P (1BM23EC143)
 // Created     : 2026-01-22
 // Module      : dff
 // Project     : SystemVerilog and Verification (23EC6PE2SV),

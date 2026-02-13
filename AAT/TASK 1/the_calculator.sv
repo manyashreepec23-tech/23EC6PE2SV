@@ -1,7 +1,7 @@
 // -----------------------------------------------------------------------------
 // File        : the_calculator.sv
-// Author      : Prajwal Bharadwaj D H (1BM23EC186)
-// Created     : 2026-01-28
+// Author      : Manyashree P (1BM23EC143)
+// Created     : 2026-02-08
 // Module      : alu
 // Project     : SystemVerilog and Verification (23EC6PE2SV),
 //               Faculty: Prof. Ajaykumar Devarapalli

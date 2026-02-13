@@ -1,6 +1,6 @@
 // -----------------------------------------------------------------------------
 // File        : and_gate_tb.sv
-// Author      : Prajwal Bharadwaj D H (1BM23EC186)
+// Author      : Manyashree P (1BM23EC143)
 // Created     : 21-01-2026
 // Module      : tb
 // Project     : SystemVerilog and Verification (23EC6PE2SV),
